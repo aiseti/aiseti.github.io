@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://aiseti.github.io//sitemap.xml
