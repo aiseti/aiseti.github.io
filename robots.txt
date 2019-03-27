@@ -1,0 +1,9 @@
+User-agent: *
+
+User-agent: Yandex
+
+User-agent: Googlebot
+Allow: *.css
+Allow: *.js
+
+Sitemap: http://aisblag.ru/sitemap.xml
